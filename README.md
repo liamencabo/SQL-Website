@@ -27,8 +27,4 @@ Use JavaScript to add Dynamic Elemnts to the HTML Page.
 - PHP
 <br>
 <br>
-- HTML deals with the structure and layout of web pages.
-- CSS to handle the visuals and cosmetics.
-- Javascript to add dynamic elements to the webpage.
-- MySQL database to store data permanently.
-- PHP to do server-side processing and transactions.
+HTML deals with the structure and layout of web pages. CSS to handle the visuals and cosmetics. Javascript to add dynamic elements to the webpage. MySQL database to store data permanently. PHP to do server-side processing and transactions.
