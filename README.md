@@ -4,23 +4,23 @@
 
 Create a page to display products from the database
 
-## Server-Side Database ##
+### Server-Side Database ###
 
 The Database will only capture the product name and description for simplicity
 
-## Server-Side PHP ##
+### Server-Side PHP ###
 
 Create a script that gets product information from the database.
 
-## Client-Side HTML & CSS ##
+### Client-Side HTML & CSS ###
 
 Use the PHP script to create an HTML page to show the products, CSS for styling
 
-## Client-Side JavaScript ##
+### Client-Side JavaScript ###
 
 Use JavaScript to add Dynamic Elemnts to the HTML Page. 
 
-### Tools ###
+#### Tools ####
 - HTML/CSS
 - SQL
 - JavaScript
