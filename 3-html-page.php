@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Production Demo Page</title>
-    <!-- (A) CSS & JS -->
+    <title>Demo Production Page</title>
+    <!-- (A) JS & CSS -->
     <link href="4-style.css" rel="stylesheet">
     <script src="5-script.js"></script>
 </head>
