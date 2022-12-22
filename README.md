@@ -22,8 +22,8 @@ Use JavaScript to add Dynamic Elements to the HTML Page.
 
 #### Tools ####
 - HTML/CSS
-- SQL
 - JavaScript
+- SQL
 - PHP
 <br>
 <br>
