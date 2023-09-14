@@ -11,7 +11,7 @@
 </head>
 <body>
     <!-- (B) BOOKS LIST -->
-    <h1>OUR BOOKS</h1>
+    <h1>These are our books!</h1>
     <div id="our-books"><?php
         require "2-products.php";
         foreach ($products as $p) { ?>
